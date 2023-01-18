@@ -9,3 +9,4 @@ for _ in range(n):
             cnt += 1  # 평균 이상인 학생 수
     rate = cnt/nums[0] *100
     print(f'{rate:.3f}%')
+ 
