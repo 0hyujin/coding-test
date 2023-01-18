@@ -11,3 +11,4 @@ for _ in range(n):
     print(f'{rate:.3f}%')
  
  
+#https://ooyoung.tistory.com/62
